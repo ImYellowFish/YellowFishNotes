@@ -1,7 +1,6 @@
 # The Art of Project Management
 ------
 
-------
 # Schedule
 
 ## Why Schedule
@@ -88,3 +87,41 @@ Common problem is over-reliance on a single approach.
 * Reference: Exploring Requirements: Quality Before Design (Donald & Gerald, 1989)
 * Problem statements (current)
 * Scenarios (objective)
+
+------
+# Vision
+
+## Quality
+* Simplifying: answering questions
+* Intentional: good goals
+* Consolidated: summary ideas
+* Inspirational: realworld problem
+* Memorable: direct
+
+## Key Points (4.4 Page 74)
+* Statement
+* Priority 1 scenarios/feature
+* Priority 2 scenarios/feature
+* For whom and What problem
+* Why use ours (Comparison)
+* Competitors
+* What will not be done
+* Reasons of failure, how to avoid
+* How to divide the work(high level)
+* Assumptions and dependencies
+* Benefit for organization
+* Stakeholders
+
+## Draft timeline
+* Rough draft
+* Leader review
+* Public first draft
+* All-hands meeting
+* Final version
+
+## Other
+* How detail depends on team
+* Goals level: Project, Team & Individual
+* Require one primary writer
+* Visualization
+* Daily worship
