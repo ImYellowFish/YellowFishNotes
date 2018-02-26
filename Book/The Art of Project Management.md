@@ -125,3 +125,50 @@ Common problem is over-reliance on a single approach.
 * Require one primary writer
 * Visualization
 * Daily worship
+
+------
+# Ideas
+
+## Quality requirements
+* plan for iteration
+* find wrong assumptions
+* find missing info
+* priority
+* find unspecific words
+
+## Design exploration
+* problem space
+* constraints by requirements
+* feedback to requirements
+
+## Principle
+* bad ideas
+* think out of box?
+
+Ideas should solve the target problem(requirement) and satisfy the constraint.
+
+## Good questions
+* 1) Focusing questions
+* narrow down & missing key info
+* "what problem are you trying to solve"
+* 2) Creative questions
+* directions not yet explored
+* enlarge problem space
+* 3) Rhetorical questions
+* not really seeking answers
+* assuming self smarter than answerer
+
+## Bad leads to good
+Know good ideas only after many bad ones
+
+## Improvisational rules
+* Yes, and...
+* No half-assing
+* No blocking questions (keep going and direct)
+* Make the other guy look dood
+
+## More tips
+* Book on creative thinking
+* Moments when most creative
+* Persistence
+* ThinkPak
