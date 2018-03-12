@@ -58,6 +58,8 @@
 * Specification (How)
 * WBS
 
+Requirement -> Ideas -> Spec
+
 ## Perspectives
 * Business (desire, feature & profit)
 * Technical (how, quality, reuse & capability)
