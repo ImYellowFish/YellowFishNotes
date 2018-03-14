@@ -174,3 +174,162 @@ Know good ideas only after many bad ones
 * Moments when most creative
 * Persistence
 * ThinkPak
+
+------
+# Specs
+
+3 use: what, phase(milestone), feedback
+
+## What to specify
+* requirements(criteria)
+* feature (non-technical scenario)
+* Technical specs
+* work items
+* test criteria
+
+## Seperate design and spec
+* Seperate
+* Simplify
+* Is this what you need to do best work?
+
+## Open issues
+
+### Manage
+* Track and write down.
+* well-understood issues.
+* Shotgunning
+
+### Checklist
+* when and who?
+* isolate to scenario
+* pending resolutions
+* can we cut it?
+* divide
+* obstacle
+
+## Review
+
+* Meet in person
+* Read spec first
+* Chief need to attend
+* Open to who has read the specs
+* Ask questions
+
+Question list:
+
+* spec to work item
+* weakest point of design & interfaces
+* prioriy
+* quality & test
+* simpler design?
+* possible changes
+* dependencies
+* bg info
+* concerns
+* reuse?
+* UI accessibility & localization
+* security risks
+
+
+------
+# Decisions
+
+## Questions
+* Core problem
+* Impact
+* Cost of being wrong
+* Time window
+* Previous exp
+* Any expert?
+* Approval & feedback required
+
+## Options
+
+* Singular & Comparative
+* List options, pros & cons
+
+Checklist:
+
+* Do nothing option
+* Proof
+* Tough questions
+* Have dissenting options
+* Hibrid options
+* Relevant impacts
+* Lightweight
+* Refine until stable
+
+Tricks
+
+* Discussion => clarity & understanding
+* Eliminate the impossible
+* Check the simplest solution
+* Reflect (fresh air)
+
+## Data
+
+Beaware:
+
+* Misinterpretation
+* Data manipulation
+* Exaggerated precision
+
+Try: 
+
+* Direct commmunication (first-hand)
+* Questioning
+
+## Improve Decision-making
+* Make hard choices
+* Review
+
+Review checklist:
+
+* Resolved the core?
+* Helped the project progress?
+* Was there better info?
+* Did vision & spec help?
+* Key people?
+* Other problems (good/bad)?
+* Hindsight
+* Authority
+* Reuse exp?
+
+------
+# Communication
+
+## Model
+* Transmitted
+* Received
+* Understood (Cognitive & questions)
+* Agreed
+* Action
+
+## Relationship
+
+It enhances communication.
+
+## Problems
+* Assumption (Clarify step by step)
+* Lack of clarity (What they hear)
+* Not listening
+* Dictation
+* Problem mismatch (another issue is here)
+* Personal attacks
+* Derision, ridicule & blame (no trust)
+
+## Roles
+* Clarifying the roles & responsibility
+* Shared & unique roles
+* Resolve issues
+
+## Motivation
+* Ask advice
+* Follow advice
+* Clear roadblocks
+* Remind of roles
+* Remind of project goals
+* Honest demands
+* Inspiring
+* Teaching
+* Asking
