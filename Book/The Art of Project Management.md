@@ -295,6 +295,7 @@ Review checklist:
 * Authority
 * Reuse exp?
 
+
 ------
 # Communication
 
@@ -333,3 +334,63 @@ It enhances communication.
 * Inspiring
 * Teaching
 * Asking
+
+
+------
+# Process
+
+## People hate...
+* assume idiot
+* no trust
+* waste time
+* no respect (set up to fail)
+* read stupid things
+
+## Good process
+* general + team unique
+* accelerate progress
+* prevent problems
+* easier actions tracking
+* can change or eliminate
+* impacted people agree
+
+## How to create
+* define the problem
+* small meeting for proposals
+* pilot
+* repeat or accept
+
+## Managing process from below
+* Shield
+* Bet against
+* Ignore
+
+## Good email
+* concise, simple, direct
+* action & deadline
+* prioritize (fewer emails)
+* people probably not read
+* no old stories
+* seperate FYIs
+* telephone
+
+## Facilitate Meetings
+* host position
+* listen & reflect (do you mean ...?)
+* direct (back to agenda; ask silent people)
+* end the conversation (you two figure this out)
+* make history
+
+## Kinds of meetings
+* highly interactive discussion
+* reporting
+* status and project review
+* level of interaction <-> number of attendance
+
+## Meeting checklist
+* right people
+* sit or stand
+* prepare (issue list; slide, demo & handouts)
+* No laptop
+* On time
+* End of clear steps & owners
