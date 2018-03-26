@@ -394,3 +394,76 @@ It enhances communication.
 * No laptop
 * On time
 * End of clear steps & owners
+
+------
+# When things go wrong
+
+## Rough guide
+* Calm down
+* Evaluate: impact, assumptions, and prioritize
+* Calm down (team)
+* Get the right people in the room
+* Alternatves
+* Make the simplest plan & break down
+* Execute
+* Debrief
+
+## Know difficult situations
+* Acute Gap of reality & plan
+* Confusion about what, why & how to solve
+* Unclear how to solve, take actions or do nothing?
+
+Situation checklist
+
+* Oversight: wrong decisions
+* Forced to do stupid things
+* Failing schedule
+* Quality is low (what is good quality;goals)
+* Direction change
+* Personnel issues
+* Disagreement
+* Lack of faith
+* Threats of mutiny
+
+Referecne: Chapter 3 of Rapid Development by Steve McConnell
+
+## Take responsibility
+* Take risk & blame if it helps solve the problem
+* Learn about yourself in conflict with others.
+* Get in center of the situation
+* Empower others
+* Give responsibility away
+
+## Damage control
+* All hands meeting
+* Find point of agreement
+* Most recent stable state of proj
+* Isolate the problem
+* Resources help?
+
+## Conflict
+* Find the point of unification
+* Find & ignore personality conflicts
+* Mutual interest (his goal)
+* Strong & supple (make an offer)
+* Alternatives
+* Persuasion & argument (understand his desire)
+
+## Roles
+* Problem: Question others' ability; protect from others' failure; lack of trust
+* Depend & being depended. reinforce
+* Defend people from unfair questioning
+* If incompetent, find the right people to address the problem
+
+## Pressure
+* Positive/negative
+* Natural/artificial
+* Different reacts
+* Threshold
+
+## The hero complex
+* No planning
+* work for self alone
+* pseudo-hero
+* foolish kings
+* failure complex
