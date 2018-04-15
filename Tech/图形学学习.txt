@@ -1,0 +1,40 @@
+# Shader
+
+## 资源: 
+* Unity Shader Cookbook (偏重实现)
+* 官方例子 (稍底层的实现) https://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html
+* 官方文档 Shader Reference (实现, Unity功能介绍)
+* Cg Wiki (更多原理和更底层的实现) https://en.wikibooks.org/wiki/Cg_Programming/Unity
+
+## 要点:
+
+着重学习Vert & Frag写法，各种技术背后的原理
+
+
+### 基础光照
+* Diffuse, Spec, NormalMapping
+* Ramp, BRDF & MultiTex blending(Terrain)
+* Alpha Blending, Render queue order, ZBuffer https://jakobknudsen.wordpress.com/2013/07/20/transparency-and-sorting/
+
+### 基于图像的光照
+* Matcap(发光球体) MGameMatCap
+* Cubemap, Skybox, Reflection Cubemap
+* Light probes
+
+### PBR
+* 基本原理 https://zhuanlan.zhihu.com/p/33630079
+* 具体实现 Standard Shader; MGamePBR
+
+### 管线
+* Forward & Defered rendering
+* HDR
+
+### Unity相关
+* Pass Tags
+* Unity built-in shaders (官网有下载)
+* 
+
+2. 渲染管线和底层原理
+Peter Shirley
+Fundamentals of Computer Graphics
+https://item.taobao.com/item.htm?spm=a230r.1.14.15.1c6c1d09aL46hA&id=566330295541&ns=1&abbucket=1#detail
