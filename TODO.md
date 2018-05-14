@@ -1,11 +1,8 @@
 # This Week:
-1. Software Engineering & Management
-	* finish later chapters
 
-2. Pawpaw war
-	* force feedback
-	* surprise mechanics: predictable
-	* score & timer
+1. Fishing system
+
+2. GPU skinning
 
 
 
@@ -36,5 +33,3 @@
 9C. Compute shader with Final Audition
 
 10B. Timeline exercise
-
-11A. Check for tcent
