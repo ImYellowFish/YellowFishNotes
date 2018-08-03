@@ -30,11 +30,11 @@ where R is the width height ratio; theta is FOV/2
 
 ## ClipSpace
 * ClipPosition.z: (D3D reversed-z) 1 to 0; (OpenGL) -1 to 1
-* Unity camera clips a bit more depth behind the near plane on PC(D3D)
 
 ## DepthMap
-* DecodeDepthNormal depth: 0(near) to 1(far)
+* DecodeDepthNormal depth: 0(near) to 1(far); depth = -viewPos.z / farplane
 * SAMPLE_DEPTH_TEXTURE D3D: 1(near) to 0(far) Nonlinear
 * [Ref: Linearize depth equations](http://www.humus.name/temp/Linearize%20depth.txt)
+* Unity LinearEyeDepth param range: (0, 1) or (1, 0)(with reversed z)
 * Unity LinearEyeDepth: near(near plane) to far(far plane) (positive value, regardless of platforms)
 * Unity Linear01Depth: near/far(near plane) to 1(far plane) (regardless of platforms)
