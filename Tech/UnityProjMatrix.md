@@ -1,8 +1,9 @@
 # View Space to Clip Space
 ## OpenGL
 
-* near plane -> -1
-* far plane -> 1
+* near plane clip z -> -1
+* far plane clip z -> 1
+* clip x,y -> (-1,1)
 * Clip space range is \[0,far\](D3D-like) or \[-near,far\](OpenGL-like)
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{Bmatrix}&space;cot\theta&space;/R&space;&&space;0&space;&&space;0&space;&&space;0\\&space;0&space;&&space;cot&space;\theta&space;&&space;0&space;&&space;0&space;\\&space;0&space;&&space;0&space;&&space;\frac{F&plus;N}{N-F}&space;&&space;\frac{2FN}{N-F}\\&space;0&space;&&space;0&space;&&space;-1&space;&&space;0&space;\end{Bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{Bmatrix}&space;cot\theta&space;/R&space;&&space;0&space;&&space;0&space;&&space;0\\&space;0&space;&&space;cot&space;\theta&space;&&space;0&space;&&space;0&space;\\&space;0&space;&&space;0&space;&&space;\frac{F&plus;N}{N-F}&space;&&space;\frac{2FN}{N-F}\\&space;0&space;&&space;0&space;&&space;-1&space;&&space;0&space;\end{Bmatrix}" title="\begin{Bmatrix} cot\theta /R & 0 & 0 & 0\\ 0 & cot \theta & 0 & 0 \\ 0 & 0 & \frac{F+N}{N-F} & \frac{2FN}{N-F}\\ 0 & 0 & -1 & 0 \end{Bmatrix}" /></a>
@@ -10,8 +11,9 @@
 where R is the width height ratio; theta is FOV/2
 
 ## D3D with reversed z
-* near plane -> 1
-* far plane -> 0
+* near plane clip z -> 1
+* far plane clip z -> 0
+* clip x,y -> (-1,1)
 * D3D clip space coord is from 0(near) to 1(far). However recent D3D renders use reversed depth, so matrix z component is reversed in Unity shaders.
 * Clip space range is [near,0]
 * [Ref: Clip depth and clip range differences](https://docs.unity3d.com/Manual//SL-PlatformDifferences.html)
