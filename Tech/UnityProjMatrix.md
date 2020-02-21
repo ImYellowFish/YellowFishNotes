@@ -1,6 +1,7 @@
 # View Space to Clip Space
 ## OpenGL
 
+* view space z -> (-near, -far)
 * near plane clip z -> -1
 * far plane clip z -> 1
 * clip x,y -> (-1,1)
@@ -11,6 +12,7 @@
 where R is the width height ratio; theta is FOV/2
 
 ## D3D with reversed z
+* view space z -> (-near, -far)
 * near plane clip z -> 1
 * far plane clip z -> 0
 * clip x,y -> (-1,1)
